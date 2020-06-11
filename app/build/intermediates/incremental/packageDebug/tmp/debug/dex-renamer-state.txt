@@ -1,0 +1,4 @@
+#Thu Jun 04 20:31:01 ICT 2020
+base.0=/Users/macbookpro/Downloads/android-kotlin-fundamentals-starter-apps-master/DessertClicker-Starter/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
